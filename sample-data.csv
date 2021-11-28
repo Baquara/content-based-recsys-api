@@ -1,0 +1,9 @@
+id,description,action
+1,Car ahead distant,continue
+2,Car ahead idle,break
+3,Animal ahead car behind high speed,continue
+4,Animal ahead car behind low speed,break
+5,Human ahead car behind high speed,steer
+6,Free road ahead curve,steer
+7,Human ahead car behind low speed,break
+8,Free road ahead,continue
